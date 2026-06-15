@@ -6,14 +6,17 @@ Course exercises completed during the **Webtechnologies** module at ZHdK (Zürch
 
 ## Exercises
 
-| # | Topic |
-|---|-------|
-| 01 | HTML basics & document structure |
-| 02 | DNS & Domains, CSS basics |
-| 03 | JavaScript fundamentals & DOM manipulation |
-| 04 | Responsive design & CSS layout |
-| 05 | APIs & data fetching |
-| 06 | Headless CMS & content management |
+– HTML basics & document structure
+
+– DNS & Domains, CSS basics
+
+– JavaScript fundamentals & DOM manipulation
+
+– Responsive design & CSS layout
+
+– APIs & data fetching
+
+– Headless CMS & content management
 
 Each exercise folder contains the corresponding HTML, CSS and JavaScript files.
 
